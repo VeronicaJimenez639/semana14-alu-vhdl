@@ -1,0 +1,7 @@
+v 4
+file . "tb_alu_simple.vhd" "c0905b98baf66b80a7c28073843f001e9aeed38b" "20260918121257.468":
+  entity tb_alu_simple at 1( 0) + 0 on 13;
+  architecture simulation of tb_alu_simple at 7( 94) + 0 on 14;
+file . "alu_simple.vhd" "f0d482ab03a46625b4a63df96bcdcdcfc554f671" "20260918121049.073":
+  entity alu_simple at 1( 0) + 0 on 11;
+  architecture behavioral of alu_simple at 14( 342) + 0 on 12;
